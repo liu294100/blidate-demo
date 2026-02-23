@@ -1,0 +1,3994 @@
+﻿  鈻?Next.js 14.2.35
+
+   Creating an optimized production build ...
+ 鉁?Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/26) ...
+   Generating static pages (6/26) 
+node.exe : Error: Could
+n't find next-intl conf
+ig file. Please follow 
+the instructions at htt
+ps://next-intl.dev/docs
+/getting-started/app-ro
+uter
+所在位置 E:\Dev\Nodejs\npx.
+ps1:29 字符: 3
++   & $NODE_EXE $NPX_CL
+I_JS $args
++   ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Error: Couldn   
+ 't...rted/app-rout    
+er:String) [], Rem    o
+teException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+
+Error occurred prerende
+ring page "/zh/auth/log
+in". Read more: https:/
+/nextjs.org/docs/messag
+es/prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\messages\page.js:1:
+5543)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1887363786'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\messages\page.js:1:
+5543)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1887363786'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\messages\page.js:1:
+5543)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1887363786'
+}
+
+Error occurred prerende
+ring page "/en". Read m
+ore: https://nextjs.org
+/docs/messages/prerende
+r-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\messages\page.js:1:
+5543)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+
+Error occurred prerende
+ring page "/zh/auth/reg
+ister". Read more: http
+s://nextjs.org/docs/mes
+sages/prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+
+Error occurred prerende
+ring page "/zh". Read m
+ore: https://nextjs.org
+/docs/messages/prerende
+r-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+   Generating static pages (12/26) 
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+
+Error occurred prerende
+ring page "/en/auth/log
+in". Read more: https:/
+/nextjs.org/docs/messag
+es/prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+
+Error occurred prerende
+ring page "/en/auth/reg
+ister". Read more: http
+s://nextjs.org/docs/mes
+sages/prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\matches\page.js:1:6
+448)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '448586965'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\matches\page.js:1:6
+448)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '448586965'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\matches\page.js:1:6
+448)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '448586965'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+
+Error occurred prerende
+ring page "/en/matches"
+. Read more: https://ne
+xtjs.org/docs/messages/
+prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\messages\page.js:1:
+5543)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1887363786'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\messages\page.js:1:
+5543)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1887363786'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\messages\page.js:1:
+5543)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1887363786'
+}
+
+Error occurred prerende
+ring page "/en/profile"
+. Read more: https://ne
+xtjs.org/docs/messages/
+prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\messages\page.js:1:
+5543)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+
+Error occurred prerende
+ring page "/zh/discover
+". Read more: https://n
+extjs.org/docs/messages
+/prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+
+Error occurred prerende
+ring page "/zh/profile"
+. Read more: https://ne
+xtjs.org/docs/messages/
+prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2322914284'
+}
+
+Error occurred prerende
+ring page "/en/discover
+". Read more: https://n
+extjs.org/docs/messages
+/prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at d (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\login\page.js:
+1:6118)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+   Generating static pages (19/26) 
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '1368151044'
+}
+
+Error occurred prerende
+ring page "/zh/messages
+". Read more: https://n
+extjs.org/docs/messages
+/prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\auth\register\page.
+js:1:7606)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+
+Error occurred prerende
+ring page "/zh/matches"
+. Read more: https://ne
+xtjs.org/docs/messages/
+prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\matches\page.js:1:6
+448)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808) {
+  digest: '2577606147'
+}
+
+Error occurred prerende
+ring page "/en/messages
+". Read more: https://n
+extjs.org/docs/messages
+/prerender-error
+
+Error: Couldn't find ne
+xt-intl config file. Pl
+ease follow the instruc
+tions at https://next-i
+ntl.dev/docs/getting-st
+arted/app-router
+    at t.Z (F:\Other\Co
+de\dev\blinddate\apps\w
+eb\.next\server\chunks\
+803.js:1:100553)
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:99350
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100122
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at F:\Other\Code\de
+v\blinddate\apps\web\.n
+ext\server\chunks\803.j
+s:1:100457
+    at F:\Other\Code\de
+v\blinddate\node_module
+s\.pnpm\next@14.2.35_re
+act-dom@18.3.1_react@18
+.3.1__react@18.3.1\node
+_modules\next\dist\comp
+iled\next-server\app-pa
+ge.runtime.prod.js:12:1
+86465
+    at a (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\chunks\80
+3.js:1:100491)
+    at o (F:\Other\Code
+\dev\blinddate\apps\web
+\.next\server\app\[loca
+le]\discover\page.js:1:
+9465)
+    at em (F:\Other\Cod
+e\dev\blinddate\node_mo
+dules\.pnpm\next@14.2.3
+5_react-dom@18.3.1_reac
+t@18.3.1__react@18.3.1\
+node_modules\next\dist\
+compiled\next-server\ap
+p-page.runtime.prod.js:
+12:134808)
+ 鉁?Generating static pages (26/26)
+
+> Export encountered er
+rors on following paths
+:
+	/[locale]/auth/login/p
+age: /en/auth/login
+	/[locale]/auth/login/p
+age: /zh/auth/login
+	/[locale]/auth/registe
+r/page: /en/auth/regist
+er
+	/[locale]/auth/registe
+r/page: /zh/auth/regist
+er
+	/[locale]/discover/pag
+e: /en/discover
+	/[locale]/discover/pag
+e: /zh/discover
+	/[locale]/matches/page
+: /en/matches
+	/[locale]/matches/page
+: /zh/matches
+	/[locale]/messages/pag
+e: /en/messages
+	/[locale]/messages/pag
+e: /zh/messages
+	/[locale]/page: /en
+	/[locale]/page: /zh
+	/[locale]/profile/page
+: /en/profile
+	/[locale]/profile/page
+: /zh/profile

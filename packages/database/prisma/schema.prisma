@@ -1,0 +1,241 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ========================
+// Enums
+// ========================
+
+enum UserRole {
+  USER
+  MATCHMAKER
+  ADMIN
+}
+
+enum UserStatus {
+  ACTIVE
+  BANNED
+  INACTIVE
+}
+
+enum Gender {
+  MALE
+  FEMALE
+  OTHER
+}
+
+enum Education {
+  HIGH_SCHOOL
+  ASSOCIATE
+  BACHELOR
+  MASTER
+  DOCTORATE
+  OTHER
+}
+
+enum PaymentType {
+  PAYMENT
+  MATCHMAKER
+}
+
+enum PaymentStatus {
+  PENDING
+  COMPLETED
+  FAILED
+  REFUNDED
+}
+
+enum MatchmakerRequestStatus {
+  PENDING
+  IN_PROGRESS
+  COMPLETED
+  CANCELLED
+}
+
+enum MessageType {
+  TEXT
+  EMOJI
+  IMAGE
+  SYSTEM
+}
+
+enum ModerationStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+// ========================
+// Models
+// ========================
+
+model User {
+  id            String     @id @default(cuid())
+  email         String?    @unique
+  phone         String?    @unique
+  passwordHash  String
+  role          UserRole   @default(USER)
+  status        UserStatus @default(ACTIVE)
+  locale        String     @default("zh")
+  emailVerified DateTime?
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+
+  profile          Profile?
+  matchPreference  MatchPreference?
+  likesGiven       Like[]              @relation("LikesGiven")
+  likesReceived    Like[]              @relation("LikesReceived")
+  matchesAsUser1   Match[]             @relation("MatchUser1")
+  matchesAsUser2   Match[]             @relation("MatchUser2")
+  unlockRecords    UnlockRecord[]
+  messagesSent     Message[]
+  matchmakerRequests MatchmakerRequest[] @relation("UserRequests")
+  assignedRequests   MatchmakerRequest[] @relation("AssignedRequests")
+
+  @@map("users")
+}
+
+model Profile {
+  id          String           @id @default(cuid())
+  userId      String           @unique
+  name        String
+  gender      Gender
+  birthDate   DateTime
+  height      Int?             // cm
+  weight      Int?             // kg
+  education   Education?
+  occupation  String?
+  income      String?          // range string e.g. "10k-20k"
+  bio         String?          @db.Text
+  city        String?
+  province    String?
+  country     String?          @default("CN")
+  photos      Json             @default("[]") // string array of URLs
+  avatarUrl   String?
+  isVerified  Boolean          @default(false)
+  moderationStatus ModerationStatus @default(PENDING)
+  contact     String?          // admin only
+  createdAt   DateTime         @default(now())
+  updatedAt   DateTime         @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("profiles")
+}
+
+model MatchPreference {
+  id             String     @id @default(cuid())
+  userId         String     @unique
+  minAge         Int?       @default(18)
+  maxAge         Int?       @default(60)
+  minHeight      Int?       // cm
+  maxHeight      Int?       // cm
+  genderPref     Gender?
+  educationPref  Education?
+  cityPref       String?
+  description    String?    @db.Text
+  createdAt      DateTime   @default(now())
+  updatedAt      DateTime   @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("match_preferences")
+}
+
+model Like {
+  id         String   @id @default(cuid())
+  fromUserId String
+  toUserId   String
+  createdAt  DateTime @default(now())
+
+  fromUser User @relation("LikesGiven", fields: [fromUserId], references: [id], onDelete: Cascade)
+  toUser   User @relation("LikesReceived", fields: [toUserId], references: [id], onDelete: Cascade)
+
+  @@unique([fromUserId, toUserId])
+  @@map("likes")
+}
+
+model Match {
+  id          String    @id @default(cuid())
+  user1Id     String
+  user2Id     String
+  isUnlocked  Boolean   @default(false)
+  unlockedBy  String?
+  unlockedAt  DateTime?
+  createdAt   DateTime  @default(now())
+
+  user1          User               @relation("MatchUser1", fields: [user1Id], references: [id], onDelete: Cascade)
+  user2          User               @relation("MatchUser2", fields: [user2Id], references: [id], onDelete: Cascade)
+  unlockRecords  UnlockRecord[]
+  messages       Message[]
+  matchmakerRequests MatchmakerRequest[]
+
+  @@unique([user1Id, user2Id])
+  @@map("matches")
+}
+
+model UnlockRecord {
+  id          String        @id @default(cuid())
+  matchId     String
+  userId      String
+  paymentType PaymentType
+  amount      Float         @default(0)
+  status      PaymentStatus @default(PENDING)
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+
+  match Match @relation(fields: [matchId], references: [id], onDelete: Cascade)
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("unlock_records")
+}
+
+model Message {
+  id        String      @id @default(cuid())
+  matchId   String
+  senderId  String
+  content   String      @db.Text
+  type      MessageType @default(TEXT)
+  readAt    DateTime?
+  createdAt DateTime    @default(now())
+
+  match  Match @relation(fields: [matchId], references: [id], onDelete: Cascade)
+  sender User  @relation(fields: [senderId], references: [id], onDelete: Cascade)
+
+  @@index([matchId, createdAt])
+  @@map("messages")
+}
+
+model MatchmakerRequest {
+  id          String                  @id @default(cuid())
+  userId      String
+  matchId     String?
+  status      MatchmakerRequestStatus @default(PENDING)
+  notes       String?                 @db.Text
+  adminNotes  String?                 @db.Text
+  assignedTo  String?
+  createdAt   DateTime                @default(now())
+  updatedAt   DateTime                @updatedAt
+
+  user       User   @relation("UserRequests", fields: [userId], references: [id], onDelete: Cascade)
+  match      Match? @relation(fields: [matchId], references: [id], onDelete: SetNull)
+  assignee   User?  @relation("AssignedRequests", fields: [assignedTo], references: [id], onDelete: SetNull)
+
+  @@map("matchmaker_requests")
+}
+
+model SystemConfig {
+  id          String   @id @default(cuid())
+  key         String   @unique
+  value       String   @db.Text
+  description String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("system_configs")
+}
